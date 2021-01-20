@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c25bafac-bbc3-425f-9efb-31d3045c7511" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aciqwVpqI6OHfbF1k89FWNkMRZ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1.Client" />
+      <module name="Calculator TCP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1.Server" />
+      <module name="Calculator TCP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c25bafac-bbc3-425f-9efb-31d3045c7511" name="Default Changelist" comment="" />
+      <created>1587041476710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587041476710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="192" key="GridCell.Tab.0.bottom" timestamp="1587155737990">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state width="1259" height="192" key="GridCell.Tab.0.bottom/64.0.1302.768@64.0.1302.768" timestamp="1587155737990" />
+    <state width="1259" height="192" key="GridCell.Tab.0.center" timestamp="1587155737990">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state width="1259" height="192" key="GridCell.Tab.0.center/64.0.1302.768@64.0.1302.768" timestamp="1587155737990" />
+    <state width="1259" height="192" key="GridCell.Tab.0.left" timestamp="1587155737989">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state width="1259" height="192" key="GridCell.Tab.0.left/64.0.1302.768@64.0.1302.768" timestamp="1587155737989" />
+    <state width="1259" height="192" key="GridCell.Tab.0.right" timestamp="1587155737990">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state width="1259" height="192" key="GridCell.Tab.0.right/64.0.1302.768@64.0.1302.768" timestamp="1587155737990" />
+    <state x="97" y="4" key="new project wizard" timestamp="1587072851818">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="97" y="4" key="new project wizard/64.0.1302.768@64.0.1302.768" timestamp="1587072851818" />
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587123665478">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/64.0.1302.768@64.0.1302.768" timestamp="1587123665478" />
+  </component>
+</project>
